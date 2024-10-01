@@ -1,8 +1,4 @@
 # AWS VPC Setup Script 
----
-
-# AWS VPC Setup Script
-
 This script creates a Virtual Private Cloud (VPC) along with public and private subnets, route tables, and an Internet Gateway on AWS using the AWS CLI.
 
 ## Prerequisites
@@ -71,5 +67,7 @@ The script will output the IDs of the created resources such as:
 - Subnet IDs (public and private)
 - Route Table ID
 - Internet Gateway ID
-![Output](https://raw.githubusercontent.com/AbdElRhmanArafa/AWS-VPC/img/Resource%20map.png)
+
+### 5. Resource Map
+![Output](https://raw.githubusercontent.com/AbdElRhmanArafa/AWS-VPC/refs/heads/main/img/Resource%20map.png)
 
