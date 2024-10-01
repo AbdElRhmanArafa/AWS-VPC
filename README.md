@@ -1,5 +1,4 @@
-Here’s a structured README file explaining how to run the provided Bash script for creating a VPC, subnets, route tables, and an internet gateway on AWS using AWS CLI:
-
+# AWS VPC Setup Script 
 ---
 
 # AWS VPC Setup Script
